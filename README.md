@@ -2,6 +2,9 @@
 
 This is a Streamlit web application that demonstrates simple linear regression interactively. Users can adjust parameters to generate synthetic data, and the app will display the true regression line, the fitted regression line, and the calculated regression equation in real-time.
 
+##Demosite
+The application is deployed on Streamlit Cloud and can be accessed here: [https://linearregressionwork-hsav36eemdkzzsgovwpsjz.streamlit.app/](https://linearregressionwork-hsav36eemdkzzsgovwpsjz.streamlit.app/)
+
 ## Features
 
 *   **Interactive Data Generation:** Adjust the slope, intercept, noise level, and number of data points using sliders.
